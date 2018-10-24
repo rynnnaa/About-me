@@ -1,0 +1,22 @@
+/* selectors */
+html {
+
+    color: yellow;
+
+}
+
+body {
+    background-color: pink
+}
+
+
+h1 
+{
+    color: purple
+}
+
+h3 {
+ color: rgb(233, 3, 233);
+ font-style: italic;
+ 
+}
