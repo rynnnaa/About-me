@@ -1,5 +1,8 @@
+'use strict';
 // testing
 // testing
+
+//testing
 console.log('userName', userName);
 
 var userName = prompt('Welcome to the site. What is your name?');
